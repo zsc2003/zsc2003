@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am an undergraduate student at ShanghaiTech University.
+
 <!--
 **zsc2003/zsc2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
