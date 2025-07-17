@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I was an undergraduate student at ShanghaiTech University, majoring in Computer Science from 2021 to 2025.
-
-
+- I'm currently a master's student at Tsinghua University, majoring in Mathematics since 2025.
+- I was an undergraduate student at ShanghaiTech University, majoring in Computer Science from 2021 to 2025.
+- Homepage: [https://zsc2003.github.io/](https://zsc2003.github.io/)
+- Email: [zhoushch@alumni.shanghaitech.edu.cn](mailto:zhoushch@alumni.shanghaitech.edu.cn)
+  [zhoushch@shanghaitech.edu.cn](mailto:zhoushch@shanghaitech.edu.cn)
 
 <!--
 **zsc2003/zsc2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
